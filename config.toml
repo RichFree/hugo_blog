@@ -1,4 +1,4 @@
-baseURL = "https://richfree.xyz/"
+baseURL = "https://richardwong.xyz/"
 # title = "Hugo Themes"
 author = "Richard Wong"
 copyright = "Copyright © 2022, Richard; all rights reserved."
@@ -59,7 +59,7 @@ title = "Richard's Blog"
 [taxonomies]
 category = "categories"
 tag = "tags"
-# series = "series"
+series = "series"
 
 [privacy]
 
